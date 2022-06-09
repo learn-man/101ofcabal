@@ -9,7 +9,9 @@ It's a *101 level*.
 
 * The Step
 1. ~mkdir -p     PROJECT_NAME~
+
    ~chmod -R 755 PROJECT_NAME~
+
    ~cd           PROJECT_NAME~
 2. ~cabal init~
 3. Edit the ~.cabal~ file
