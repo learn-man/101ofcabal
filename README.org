@@ -1,0 +1,7 @@
+#+TITLE: ~101OfCabal~
+
+* Introdocution
+
+This is a repo of ~Cabal~.
+
+It's a *101 level*.
