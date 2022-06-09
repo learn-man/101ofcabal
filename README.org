@@ -1,7 +1,19 @@
 #+TITLE: ~101OfCabal~
 
 * Introdocution
-
 This is a repo of ~Cabal~.
-
 It's a *101 level*.
+
+* The link
+[[https://cabal.readthedocs.io/en/3.6/getting-started.html][Getting Started with Haskell and Cabal]]
+
+* The Step
+1. ~mkdir -p     PROJECT_NAME~
+   ~chmod -R 755 PROJECT_NAME~
+   ~cd           PROJECT_NAME~
+2. ~cabal init~
+3. Edit the ~.cabal~ file
+   - add dependencies
+   - modifey other options
+4. Write the code
+5. ~cabal run~
